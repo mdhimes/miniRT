@@ -50,4 +50,4 @@ echo "------------"
 echo "-----------"
 echo "f06blending"
 echo "-----------"
-../miniRT.py --atm ../inputs/blending.atm --par ../inputs/blending.par --fname blending --wnlo 4366 --wnhi 4370 --wnsamp 0.005 --osamp 1080 --outdir ../output/f06blending/
+../miniRT.py --atm ../inputs/blending.atm --par ../inputs/blending.par --fname blending --wnlo 4368.2428743 --wnhi 4368.4336981 --wnsamp 0.005 --osamp 1080 --outdir ../output/f06blending/
